@@ -1,7 +1,16 @@
+@-ms-viewport {
+    width: device-width;
+}
+
+#translateForm {
+    margin: 1em;    
+}
+
 .ui-footer {
     text-align: center; 
     padding:0.3em;
 }
+
 .ui-footer > .footerText {
     font-size:0.8em;
     position:relative;
