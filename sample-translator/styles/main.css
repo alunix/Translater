@@ -1,9 +1,9 @@
 @-ms-viewport {
-	width: device-width;
+    width: device-width;
 }
 
 #translateForm {
-	margin: 1em;    
+    margin: 1em;    
 }
 
 .ui-footer {
