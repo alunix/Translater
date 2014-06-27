@@ -38,5 +38,6 @@
   "WP8TileTitle": "",
   "WP8ProductID": "{0ddd68df-b316-4ffe-9dcb-658ee2da6201}",
   "WP8PublisherID": "{eb931279-d963-4d59-99d6-8acf4cf6aab3}",
-  "WP8Publisher": ""
+  "WP8Publisher": "",
+  "Framework": "Cordova"
 }
